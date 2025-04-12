@@ -1,0 +1,294 @@
+<resources>
+    <string name="app_name">Cosmic Tours</string>
+
+    <string-array name="planets">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Moon</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+
+    <string-array name="sun">
+        <item>"Welcome to the Sun - Our Solar System's Fiery Star! 🌞</item>
+        <item>Introduction</item>
+        <item>Prepare for an awe-inspiring journey to the Sun, the radiant star at the center of our solar system, right here in our app. With our cutting-edge technology, we enable you to delve into the dazzling mysteries of the Sun as never before. Get ready to embark on a mission to the scorching heart of our solar system! 🌞🚀</item>
+        <item>The Solar Furnace 🔥 : The Sun is a ball of superheated gas with a core temperature of 15 million degrees Celsius, making it an ever-burning furnace.</item>
+        <item>Radiant Energy Source ☀️ : Its our celestial battery charger, providing the energy that fuels life on Earth, from warm days to photosynthesis in plants.</item>
+        <item>Magnetic Sunspots 🔍 : Witness the Suns dynamic surface with dark sunspots caused by magnetic activity and bright granules that come and go.</item>
+        <item>Solar Flares and CMEs 🌋 : Learn about solar flares and coronal mass ejections (CMEs) that occasionally erupt from the Sun, impacting space weather and Earth\'s technology.</item>
+        <item>Stellar Evolution ⏳ : Understand that the Sun, despite its fiery nature, is a middle-aged star in its life cycle, with billions of years left before it evolves into a red giant.</item>
+        <item>Magnetosphere Guardian 🌌 : Explore how the Sun\'s solar wind interacts with Earth\'s magnetosphere, creating breathtaking auroras in our planet\'s polar regions.</item>
+        <item>Want To Visit The Sun?</item>
+    </string-array>
+
+
+    <string-array name="earth">
+        <item>Welcome to Earth- Our Remarkable Blue Planet! 🌍</item>
+        <item>Introduction</item>
+        <item>Embark on an incredible journey to Earth, the third planet from the Sun and the only one known to support life, right here in our app. With our advanced technology, we bring you the opportunity to explore the captivating wonders of our own planet like never before. Get ready to embark on a mission to the extraordinary world of Earth! 🚀</item>
+        <item>Diverse Ecosystems 🌿 : Explore Earth\'s incredible range of ecosystems, from lush rainforests to barren deserts and icy polar regions.</item>
+       <item>Dynamic Climate 🌦️ : Experience Earth\'s ever-changing climate, from tropical heat to polar cold, and understand the factors that drive weather patterns.</item>
+        <item>Oceans of Life 🌊 : Dive into the world\'s oceans, teeming with marine life, and explore the mysteries of the deep.</item>
+        <item>Volcanic Activity 🌋 : Investigate Earth\'s volcanic landscapes and understand the geological processes that shape our planet.</item>
+        <item>Climate Change 🌍 : Learn about the impact of human activities on Earth\'s climate and the efforts to address climate change.</item>
+        <item>Space Observation 🛰️ : Discover how NASA\'s satellites and observatories in space provide insights into Earth\'s atmosphere, climate, and more.</item>
+        <item>Want To Visit Earth?</item>
+    </string-array>
+
+    <string-array name="venus">
+        <item>Welcome to Venus - Our Solar System\'s Mysterious Neighbor! 🌅</item>
+        <item>Introduction</item>
+        <item>Prepare for an incredible voyage to Venus, the second planet from the Sun, right here in our app. With our state-of-the-art technology, we make it possible for you to explore the enigmatic secrets of Venus like never before. Get ready to embark on a mission to the intriguing world of Venus! 🚀</item>
+        <item>Sultry Surface 🔥 : Experience Venus\'s extreme surface conditions, with temperatures hot enough to melt lead and a crushing atmosphere.</item>
+        <item>Thick Cloud Cover ☁️ : Delve into Venus\'s thick cloud cover, where sulfuric acid clouds create a perpetual overcast sky.</item>
+        <item>Runaway Greenhouse Effect 🌡️: Learn about Venus\'s runaway greenhouse effect, which turned it into an inferno, and understand its implications.</item>
+        <item>Volcanic Terrain 🌋 : Explore Venus\'s volcanic plains, with vast lava flows and towering volcanoes.</item>
+        <item>Unusual Rotation 🔄 : Discover Venus\'s retrograde rotation, where it spins backward compared to most other planets.</item>
+        <item>Venus Missions 🛰️ : Learn about past and future Venus missions, including NASA\'s Magellan and upcoming projects, offering a chance to explore the planet more closely.</item>
+        <item>Want To Visit Venus?</item>
+    </string-array>
+
+   <string-array name="mars">
+        <item>Welcome to Mars - Our Red Neighbor! 🪐</item>
+        <item>Introduction</item>
+        <item>Embark on an extraordinary journey to Mars, the fourth planet from the Sun and a tantalizing target for future human exploration, right here in our app. With our advanced technology and insights from NASA\'s missions, we enable you to explore the captivating mysteries of the Red Planet like never before. Get ready to embark on a mission to the fascinating world of Mars! 🚀</item>
+        <item>Martian Terrain 🏜️ : Explore Mars\' diverse landscape, from vast deserts to towering volcanoes, as imaged by NASA\'s spacecraft.</item>
+        <item>Martian Atmosphere 🌬️ : Experience the thin Martian atmosphere and understand its composition, as studied by NASA\'s missions.</item>
+        <item>Search for Life 🧪 : Learn about NASA\'s efforts to search for signs of past or present life on Mars, including the Perseverance rover\'s mission.</item>
+        <item>Martian Missions 🛰️ :Discover the array of NASA missions to Mars, from the Viking landers to the Curiosity rover and the upcoming James Webb Space Telescope.</item>
+        <item>UrRed Planet\'s History 📜 : Uncover Mars\' geological history, with NASA\'s findings shedding light on ancient rivers, lakes, and more.anus</item>
+        <item>Future of Mars Exploration 🚀 : Explore NASA\'s vision for human exploration of Mars and upcoming missions, such as the Artemis program.</item>
+        <item>Want To Visit Mars?</item>
+    </string-array>
+
+    <string-array name="jupiter">
+         <item>Welcome to Jupiter - The Giant of Our Solar System! 🪐</item>
+         <item>Introduction</item>
+         <item>Prepare for a remarkable journey to Jupiter, the largest planet in our solar system, right here in our app. With our advanced technology and insights from NASA and other space agencies, we enable you to explore the awe-inspiring mysteries of the Gas Giant like never before. Get ready to embark on a mission to the majestic world of Jupiter! 🚀</item>
+         <item>Massive Gaseous Planet ☁️ : Explore Jupiter\'s colossal gaseous form, with its iconic bands of clouds and the Great Red Spot.</item>
+         <item>Powerful Magnetic Field 🔍 : Discover Jupiter\'s immense magnetic field, the strongest in our solar system, and its influence on its moons and surroundings.</item>
+         <item>Moons of Jupiter 🌙 : Explore Jupiter\'s extensive moon system, including the Galilean moons, with a focus on NASA\'s missions to study them.</item>
+         <item>Great Red Spot 🌪️ : Learn about Jupiter\'s iconic storm, the Great Red Spot, and NASA\'s observations of its behavior over time.</item>
+         <item>Juno Mission 🛰️ : Dive into NASA\'s Juno mission, designed to study Jupiter\'s composition, gravity field, magnetic field, and polar magnetosphere.</item>
+         <item>Jupiter\'s Rings 💫 : Discover the faint ring system of Jupiter and NASA\'s missions that have explored this feature.</item>
+         <item>Want To Visit Jupiter?</item>
+     </string-array>
+
+     <string-array name="saturn">
+        <item>Welcome to Saturn - The Ringed Wonder of Our Solar System! 🪐</item>
+        <item>Introduction</item>
+        <item>Prepare for an extraordinary journey to Saturn, the magnificent ringed planet, right here in our app. With our advanced technology and insights from NASA and other space agencies, we enable you to explore the breathtaking mysteries of the Ringed Giant like never before. Get ready to embark on a mission to the enchanting world of Saturn! 🚀</item>
+        <item>Majestic Ring System 💫 : Explore Saturn\'s stunning ring system, composed of countless particles, with NASA\'s observations as your guide.</item>
+        <item>Gas Giant Beauty 🌌 : Admire Saturn\'s unique beauty, with its intricate cloud patterns and a wealth of atmospheric features.</item>
+        <item>Saturn\'s Moons 🌙 : Discover Saturn\'s diverse moon system, including the fascinating Titan and Enceladus, with a focus on NASA\'s missions.</item>
+        <item>Cassini-Huygens Mission 🛰️ : Dive into NASA\'s Cassini-Huygens mission, which studied Saturn and its moons in unprecedented detail.</item>
+        <item>Titan\'s Mysteries 🌒 : Learn about Titan, Saturn\'s largest moon, and NASA\'s exploration of its thick atmosphere and methane lakes.</item>
+        <item>The Hexagonal Storm 🌪️ :Investigate Saturn\'s unique hexagonal storm at its north pole and NASA\'s efforts to understand this atmospheric phenomenon.</item>
+        <item>Want To Visit Saturn?</item>
+    </string-array>
+
+    <string-array name="uranus">
+        <item>Welcome to Uranus - The Ice Giant of Our Solar System! 🪐</item>
+        <item>Introduction</item>
+        <item>Prepare for an extraordinary journey to Uranus, the enigmatic ice giant, right here in our app. With our advanced technology and insights from space agencies like NASA, we enable you to explore the captivating mysteries of this distant world like never before. Get ready to embark on a mission to the fascinating realm of Uranus! 🚀</item>
+        <item>Icy Atmosphere ❄️ : Explore Uranus\' frigid atmosphere, composed primarily of hydrogen and helium, with unique icy components.</item>
+        <item>Unconventional Tilt 🔄 : Discover Uranus\' extreme axial tilt, causing it to roll along its side, and explore its unique rotation.</item>
+        <item>Rings of Uranus 💫 : Delve into the rings of Uranus, a system of thin, dark rings, and learn about their characteristics.</item>
+        <item>Moons of Uranus 🌙 : Explore Uranus\' moon system, including the intriguing Miranda and Titania, with a focus on NASA\'s discoveries.</item>
+        <item>Voyager 2 Mission 🛰️ : Dive into NASA\'s Voyager 2 mission, which provided the most detailed observations of Uranus and its moons to date.</item>
+        <item>Ice Giant Secrets 📜 : Uncover the secrets of ice giants like Uranus and Neptune and their role in our solar system\'s dynamics.</item>
+        <item>Want To Visit Uranus?</item>
+    </string-array>
+
+    <string-array name="neptune">
+          <item>Welcome to Neptune - The Mystical Blue Giant of Our Solar System! 🪐</item>
+          <item>Introduction</item>
+          <item>Prepare for an extraordinary journey to Neptune, the majestic blue giant, right here in our app. With our advanced technology and insights from space agencies like NASA, we enable you to explore the captivating mysteries of this distant world like never before. Get ready to embark on a mission to the awe-inspiring realm of Neptune! 🚀</item>
+          <item>Deep Blue Atmosphere 🌌 : Explore Neptune\'s deep blue atmosphere, with its swirling storms and windy weather patterns.</item>
+          <item>Great Dark Spot 🌪️ : Learn about Neptune\'s Great Dark Spot, a massive storm system similar to Jupiter\'s Great Red Spot, and NASA\'s observations of it.</item>
+          <item>Rings of Neptune 💫 : Delve into the faint rings of Neptune, which are composed of dark particles, and learn about their characteristics.</item>
+          <item>Triton, Neptune\'s Moon 🌙 : Explore Triton, Neptune\'s largest moon, and its peculiar features, including geysers and a retrograde orbit.</item>
+          <item>Voyager 2 Mission 🛰️ : Dive into NASA\'s Voyager 2 mission, which provided the most detailed observations of Neptune and its moon Triton.</item>
+          <item>Neptune\'s Magnetosphere 🔍 : Investigate Neptune\'s magnetosphere, its unique characteristics, and NASA\'s missions that studied it.</item>
+          <item>Want To Visit Neptune?</item>
+      </string-array>
+
+     <string-array name="mercury">
+        <item>Welcome to Mercury - Our Solar System\'s Searing Cinder! ☀️</item>
+        <item>Introduction</item>
+        <item>Prepare for an extraordinary journey to Mercury, the closest planet to the Sun, right here in our app. With cutting-edge technology, we make it possible for you to explore Mercury\'s captivating mysteries like never before. Get ready to embark on a mission to the searing world of Mercury! 🚀 </item>
+        <item>Sun-Baked Surface🌡️: Experience temperature extremes, from 430°C during the day to -180°C at night, all from the safety of your virtual expedition.</item>
+        <item>Cratered Landscape 🌌: Examine the heavily cratered surface, shaped by countless asteroid and meteoroid impacts, as if you were on a real-life survey mission.</item>
+        <item>Tidally Locked 🌗: Visualize Mercury\'s unique rotation, rotating on its axis three times for every two orbits around the Sun, thanks to our advanced simulation technology.</item>
+        <item>Thin Atmosphere 💨: Discover Mercury\'s sparse atmosphere and simulate life in Mercury\'s thin atmosphere using our advanced tools.</item>
+        <item>Magnetic Surprises 🔍: Investigate Mercury\'s intriguing but relatively weak magnetic field, just like a real scientist on a mission.</item>
+        <item>MESSENGER Mission 🛰️ : Dive into NASA\'s MESSENGER mission and its groundbreaking findings about Mercury, experiencing the mission\'s insights firsthand.</item>
+        <item>Want To Visit Mercury?</item>
+    </string-array>
+
+
+    <string-array name="moon">
+        <item>Welcome to the Moon - Our Celestial Companion! 🌙</item>
+        <item>Introduction</item>
+        <item>Embark on an extraordinary journey to the Moon, Earth\'s closest neighbor, right here in our app. With our advanced technology, we enable you to explore the captivating mysteries of the Moon like never before. Get ready to embark on a mission to the mesmerizing world of the Moon! 🚀</item>
+        <item>Lunar Landscape 🌒 : Explore the Moon\'s unique and rugged terrain, from towering mountains to vast lunar plains.</item>
+        <item>Lunar Phases 🌓 : Experience the ever-changing phases of the Moon and understand the lunar cycle.</item>
+        <item>Lunar Geology 🪨 : Investigate the Moon\'s geology, including impact craters and volcanic features, and gain insights into its formation.</item>
+        <item>Lunar History 🌖 : Dive into the Moon\'s rich history, from ancient myths to the Apollo missions.</item>
+        <item>NASA\'s Lunar Missions 🌚 : Learn about NASA\'s significant role in lunar exploration, including current and future missions to the Moon.</item>
+        <item>Want To Visit The Moon?</item>
+    </string-array>
+
+    <string name="greetings">Welcome To %1$s</string>
+    <string name="our_solar_system">Our Solar System</string>
+    <string name="star_sun">Sun</string>
+    <string name="mon">Moon</string>
+
+    <string-array name="itinerary">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Moon</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+
+    <string-array name="sunitin">
+        <item>Journey to the Sun: A Galactic Odyssey 🌞</item>
+        <item>Introduction</item>
+        <item>Embark on an extraordinary mental journey to the Sun, where science fiction meets imagination 🚀 As we delve into this adventure, pack a virtual heat-resistant space suit, SPF 1,000,000 sunscreen, advanced radiation shielding, sunglasses with welding glass lenses, and virtual reality goggles</item>
+        <item>Day 01: Departure from your planet</item>
+        <item>Day 02-30: Solar Transit</item>
+        <item>Day 31: Corona Arrival</item>
+        <item>Day 32-60: Corona Exploration</item>
+        <item>Day 61: Photosphere Study</item>
+        <item>Day 62-92: Solar Transit Back to Home</item>
+        <item>Want To Know More: Contact: +1(323) 982 213 123 or mail us at nasapto@examplemail.com</item>
+    </string-array>
+
+    <string-array name="mercuryitin">
+        <item>Exploring Mercury: An Extraordinary Voyage</item>
+        <item>Introduction</item>
+        <item>Prepare for a captivating mental journey as we delve into exploring Mercury, one of our solar system\'s most enigmatic worlds.Equip yourself with heat-resistant suit, a virtual solar shield, advanced virtual exploration tools, and a communication device.</item>
+        <item>Day 01: Departure from your planet</item>
+        <item>Day 02-30: Transit to Mercury</item>
+        <item>Day 31: Mercury Orbit Entry</item>
+        <item>Day 32-60: Corona Exploration</item>
+        <item>Day 61: Surface Exploration</item>
+        <item>Day 62-92: Solar Transit Back to Home</item>
+        <item>Want To Know More: Contact: +1(323) 982 213 123 or mail us at nasapto@examplemail.com</item>
+    </string-array>
+
+    <string-array name="venusitin">
+        <item>Venturing Venus: A Hypothetical Odyssey</item>
+        <item>Introduction</item>
+        <item>In this imaginary mission to Venus, pack only the essentials for your exploration. Outfit yourself with a virtual Venusian suit, a simulated radiation shield, advanced virtual exploration instruments, and a communication device.</item>
+        <item>Day 01: Departure from your planet</item>
+        <item>Day 02-30: Transit to Venus</item>
+        <item>Day 31: Venus Orbit Entry</item>
+        <item>Day 32-60: Surface Exploration</item>
+        <item>Day 61: Ascend from venus</item>
+        <item>Day 62-92: Solar Transit Back to Home</item>
+        <item>Want To Know More: Contact: +1(323) 982 213 123 or mail us at nasapto@examplemail.com</item>
+    </string-array>
+
+    <string-array name="earthitin">
+        <item>Title: "Discovering Earth: A Remarkable Journey</item>
+        <item>Introduction</item>
+        <item>In this creative mission to Earth, only pack the essentials to enhance your exploration. Equip yourself with a real-world Earthly suit, a detailed global map, advanced exploration tools, and a functional communication device</item>
+        <item>Day 01: Depart from Home Base</item>
+        <item>Day 02-30: World Tour</item>
+        <item>Day 31:  Arrival at Earth\'s Poles</item>
+        <item>Day 32-60:  Deep-Sea Dive</item>
+        <item>Day 61:  Ascend to the Skies</item>
+        <item>Day 62-92: Solar Transit Back to Home</item>
+        <item>Want To Know More: Contact: +1(323) 982 213 123 or mail us at nasapto@examplemail.com</item>
+    </string-array>
+
+    <string-array name="moonitin">
+        <item>Lunar Adventure: A Celestial Expedition</item>
+        <item>Introduction</item>
+        <item>Prepare for a captivating lunar escapade as we embark on a journey to the Moon, Earth\'s celestial companion.Do remember to pack a Virtual Moonwalker Suit and a Fictitious Communication Device.</item>
+        <item>Day 01: Departure from your planet</item>
+        <item>Day 02-30: Transit to Moon</item>
+        <item>Day 31: Moon Orbit Entry</item>
+        <item>Day 32-60: Lunar Exploration</item>
+        <item>Day 61: Earthrise Moment</item>
+        <item>Day 62-92: Solar Transit Back to Home</item>
+        <item>Want To Know More: Contact: +1(323) 982 213 123 or mail us at nasapto@examplemail.com</item>
+    </string-array>
+
+    <string-array name="marsitin">
+        <item>Mars Expedition: An Extraordinary Voyage</item>
+        <item>Introduction</item>
+        <item>Prepare for a captivating journey as we explore the mysteries of Mars, the Red Planet. In this mission, equip yourself with a Mars exploration suit, a virtual Martian environment simulator, advanced exploration tools, and a communication device.</item>
+        <item>Day 01: Departure from your planet</item>
+        <item>Day 02-30: Transit to Mars</item>
+        <item>Day 31: Mars Orbit Entry</item>
+        <item>Day 32-60: Surface Exploration</item>
+        <item>Day 61: Discovering Mars</item>
+        <item>Day 62-92: Journey Back to Your Planet</item>
+        <item>Contact for More Information: +1(323) 982 213 123 or email us at nasapto@examplemail.com</item>
+    </string-array>
+
+    <string-array name="jupiteritin">
+        <item>Journey to Jupiter: An Epic Expedition</item>
+        <item>Introduction</item>
+        <item>Embark on an extraordinary odyssey to the gas giant, Jupiter. In this creative journey, pack a Jupiter-proof spacecraft, an atmospheric probe, advanced scientific instruments, and a communication network.</item>
+        <item>Day 01: Departure from your planet</item>
+        <item>Day 02-30: Transit to Jupiter</item>
+        <item>Day 31: Jupiter Orbit Entry</item>
+        <item>Day 32-60: Atmospheric Exploration</item>
+        <item>Day 61: Secrets of Jupiter Revealed</item>
+        <item>Day 62-92: Homeward Journey</item>
+        <item>Contact for More Information: +1(323) 982 213 123 or email us at nasapto@examplemail.com</item>
+    </string-array>
+
+    <string-array name="saturnitin">
+        <item>Discovering Saturn: An Extraordinary Quest</item>
+        <item>Introduction</item>
+        <item>Embark on an awe-inspiring quest to Saturn, the ringed wonder of our solar system. In this exploration, pack yourself equipped with a Saturnian suit, a ring system viewer, advanced remote sensing devices, and a communication interface.</item>
+        <item>Day 01: Departure from your planet</item>
+        <item>Day 02-30: Journey to Saturn</item>
+        <item>Day 31: Arrival at Saturn</item>
+        <item>Day 32-60: Ringed World Exploration</item>
+        <item>Day 61: Unveiling Saturn\'s Secrets</item>
+        <item>Day 62-92: Return Journey</item>
+        <item>Contact for More Information: +1(323) 982 213 123 or email us at nasapto@examplemail.com</item>
+    </string-array>
+
+    <string-array name="uranusitin">
+        <item>Uranus Exploration: An Incredible Adventure</item>
+        <item>Introduction</item>
+        <item>Embark on an incredible adventure to Uranus, the ice giant of our solar system. In this expedition, pack yourself equipped with a Uranian suit, an ice probe, advanced research instruments, and a communication network.</item>
+        <item>Day 01: Departure from your planet</item>
+        <item>Day 02-30: Journey to Uranus</item>
+        <item>Day 31: Uranus Orbit Entry</item>
+        <item>Day 32-60: Ice Giant Exploration</item>
+        <item>Day 61: Unveiling Uranus\'s Mysteries</item>
+        <item>Day 62-92: Return Journey</item>
+        <item>Contact for More Information: +1(323) 982 213 123 or email us at nasapto@examplemail.com</item>
+    </string-array>
+
+    <string-array name="neptuneitin">
+        <item>Neptune Expedition: A Remarkable Odyssey</item>
+        <item>Introduction</item>
+        <item>Prepare for a remarkable odyssey to Neptune, the distant blue giant of our solar system. In this exploration, pack yourself equipped with a Neptune expedition suit, an underwater explorer, advanced remote sensing devices, and a communication interface.</item>
+        <item>Day 01: Departure from your planet</item>
+        <item>Day 02-30: Voyage to Neptune</item>
+        <item>Day 31: Neptune Orbit Arrival</item>
+        <item>Day 32-60: Submersible Adventure</item>
+        <item>Day 61: Uncharted Waters of Neptune</item>
+        <item>Day 62-92: Return Journey</item>
+        <item>Contact for More Information: +1(323) 982 213 123 or email us at nasapto@examplemail.com</item>
+    </string-array>
+
+</resources>

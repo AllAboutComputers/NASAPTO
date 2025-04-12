@@ -1,0 +1,8 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- The background layer (your image) -->
+    <item android:drawable="@drawable/sun" />
+
+    <!-- The tint layer with a dark color -->
+    <item android:drawable="@color/dark_tint_color" />
+
+</layer-list>
