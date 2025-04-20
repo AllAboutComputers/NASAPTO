@@ -41,7 +41,7 @@ public class DetailActivity extends BaseActivity {
                 onBackPressed();
             }
         });
-        binding.toolbar.toolbarTitle.setText("Welcome To Your Itineary");
+        binding.toolbar.toolbarTitle.setText("Welcome To Your Destination");
 
         ArrayList<String> content = null;
         switch (title.toLowerCase(Locale.ENGLISH)){
